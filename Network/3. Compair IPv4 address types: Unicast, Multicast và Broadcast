@@ -1,0 +1,9 @@
+## 1. Địa chỉ Unicast.
+- Địa chỉ Unicast là địa chỉ được gán cho một host TCP/IP duy nhất.
+- Giao tiếp Unicast là giao tiếp mà gói tin được gửi từ một máy đến một máy ( giao tiếp 1vs1)
+
+
+## 2. Địa chỉ Multicast
+- Địa chỉ Multicast là địa chị được gán cho nhóm các host. Giao tiếp Multicast là giao tiếp mà một host gửi gói tin cho một nhóm các host ( giao tiếp 1 vs nhiều) 
+## 3. Địa chỉ Broadcast
+- Địa chỉ Broadcast là địa chỉ được gán cho tất cả các host trong 1 subnet. Việc gửi gói tin từ một host đến tất cả các host khác trong dải mạng ( 1 vs all)
