@@ -1,1 +1,1 @@
-net ffun
+net for fun
